@@ -1,0 +1,20 @@
+# Claude Code 설정 파일
+.claude/
+
+# Playwright MCP 임시 파일
+.playwright-mcp/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
