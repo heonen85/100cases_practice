@@ -1,0 +1,2 @@
+# This file ensures the downloads/ folder is tracked by Git
+# Actual FIT files (*.fit) are ignored via .gitignore
